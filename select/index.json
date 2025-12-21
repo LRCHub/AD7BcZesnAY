@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "有彩コンチェルト",
+  "base_artist": "ChouCho",
+  "createdAt": "2025-12-21T10:16:02.278975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "有彩コンチェルト",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/pl_01_有彩コンチェルト_ChouCho.txt"
+    }
+  ]
+}
